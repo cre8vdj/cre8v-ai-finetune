@@ -120,4 +120,4 @@ MIT License — see [LICENSE](LICENSE) for details.
 
 ---
 
-> Built by [Ahmed El Amine D.](https://www.upwork.com/freelancers/~01fe4edd532e7be28f) · AI/ML Engineer · LLM Fine-Tuning Specialist
+> Built by [cre8vdj](https://www.upwork.com/freelancers/~01fe4edd532e7be28f) · AI/ML Engineer · LLM Fine-Tuning Specialist
